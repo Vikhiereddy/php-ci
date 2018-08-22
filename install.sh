@@ -4,7 +4,7 @@
 # Link: https://github.com/yauh/php-ci
 #
 # This script requires
-# * freshly installed Debian Wheezy 7.x
+## * freshly installed Debian Wheezy 7.x
 # * connection to the internet from the machine
 # * (strongly suggested) firewall to prevent users form the internet to access the machine directly
 # setting some variables first
